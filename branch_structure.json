@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-73-add-per-page-metadata-to-contract-transaction",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-73-add-per-page-metadata-to-contract-transaction": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-73-add-per-page-metadata-to-contract-transaction",
+    "origin"
+  ]
+}
