@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "Open-source Soroban-native block explorer for the Stellar network",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "node api.js && next dev",
+    "build": "node api.js && next build",
+    "start": "node api.js && next start",
     "lint": "next lint",
     "test": "vitest run",
     "e2e": "playwright test"
