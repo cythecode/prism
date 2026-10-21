@@ -1,7 +1,5 @@
 node_modules/
 .next/
-.env
-.env.local
 dist/
 next-env.d.ts
 *.tsbuildinfo
@@ -10,3 +8,4 @@ next-env.d.ts
 contracts/target/
 .soroban/
 .stellar/
+config.bat
